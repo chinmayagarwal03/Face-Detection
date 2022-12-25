@@ -1,4 +1,4 @@
-# Face_Detection
+# Face-Detection-OpenCV
 
 #
 This is an implementation of face and eye detection using opencv library.
